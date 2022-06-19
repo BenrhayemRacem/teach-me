@@ -1,0 +1,16 @@
+
+
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+:root {
+    --primary-black: #000;
+    --primary-blue : #e1f9ff;
+    --secondary-blue:#e1e9ff;
+    --primary-grey :#b6b6ca ;
+    --secondary-grey :#727280 ;
+    --primary-white :  #FFF;
+}

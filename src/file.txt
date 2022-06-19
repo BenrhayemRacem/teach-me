@@ -1,0 +1,103 @@
+<!DOCTYPE html>
+<html lang="angl"> </html>
+<head>
+<meta charset="UTF-8">
+
+
+<title> TEACHME </title>
+<link rel="stylesheet" href="style.css">
+<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.css">
+
+</head>
+
+<body>
+     <header>
+      <nav>
+           <ul>
+           <li id="logo"> <a href="#"> Teach Me </a></li>
+           <li> <a href="#contact "> Contact Us    </a></li>
+           <li> <a href="#shopping"> Shopping   </a></li>
+           <li> <a href="#use"> How to use   </a></li>
+           <li> <a href="#basket"> Basket </a></li>
+
+
+          </ul>
+       </nav>
+       <div id="image principale ">
+
+       </div>
+     </header>
+       <section id="presentation">
+        <div id="text introduction ">
+             <h2> Value proposition   </h2>
+             <p> Teachme is a device created
+                in order to be a representative bridge
+                between the child's inner world
+                and the educational system</p>
+             <h3> Our goal </h3>
+            <p> Although the rigid and theory-based programs mutes the reflexion and the motivation of children to learn from an early age, this device is designed to nurture and develop the children's imagination and curiosity in an educative way.  </p>
+                <p> It's an ultimate solution to keep in the children the desire to learn and provide them with coherent and faithful informations that suit perfectly their cognitive skills.</p>
+             <div id="presentations">
+               <div id="image presentations">
+                <a href="#"> <img src="photo pr/286604553_371466068309484_3483219168716327716_n.jpg" alt="imagination"> </a>
+
+               </div>
+
+
+
+             </div>
+             <h4> Client Segment  </h4>
+             <p> Children between 5 and 12.</p>
+             <p> It provides them with useful information about the human body's systems.</p>
+            </div>
+            <div id="presentations">
+                <div id="image presentations">
+                 <a href="#"> <img src="photo pr/286744337_576605573881345_1329069819969952280_n.jpg" alt="children."> </a>
+
+                </div>
+         <h4>
+            Our design
+         </h4>
+         <p> We designed Teachme as a 3D projector kit in order to convert the information into an interactive source for the child. Explanatory videos about each system are available and saved in a USB disk styled according to the system it represents.
+            More infos about how to use the device are accessible in 'how to use' section </p>
+            <div id="presentations">
+                <div id="image presentations">
+                 <a href="#"> <img src="az/288053795_534525581680455_7390144140457410082_n.png" alt="design1."> </a>
+                 <a href="#"> <img src="az/288268150_3256275674696382_975595994059295705_n.png"alt="design2."> </a>
+
+                </div>
+
+       </section>
+     <footer>
+      <p> The trust of our users is very important to us to fulfill the mission we built our project for </p>
+       <h1> Contact_Us </h1>
+       <form>
+        <input placeholder="Name:">
+        <input placeholder="E-Mail:">
+        <input placeholder="Phone">
+        <p> You can always share with us your feedback whether that is in the 'feedback' section or by leaving a preview in our social media accounts</p>
+        <div id="presentations">
+            <div id="image presentations">
+             <a href="#"> <img src="photo pr/275143424_4642221265889784_6018398089821675528_n.jpg" alt="feedback"> </a>
+
+            </div>
+        <textarea placeholder="Feedback"></textarea>
+        <button> send </button>
+       </form>
+       <div id="deuxièmetrait"> </div>
+       <div id="copyrighticons">
+        <div id="copyright">
+            <span>© formscratch(); 2022 </span>
+        </div>
+       </div>
+     <div id="icons">
+        <a href="http://www.facebook.fr"> <i class="fa fa-facebook"> </i></a>
+        <a href="http://www.instagram.com"> <i class="fa fa-instagram"> </i></a>
+     </div>
+      </footer>
+
+
+</body>
+
+
+</html>
