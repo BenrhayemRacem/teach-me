@@ -7,18 +7,24 @@
     text-decoration: underline;
     padding-bottom: 2vh;
     padding-left: 2vw;
-    margin-bottom: 5vh;
-    color: var(--primary-black);
+    margin-bottom: 2vh;
+    color: var(--third-blue);
 }
 
 .content {
-    font-weight: 400;
-    line-height: 1.25;
+    font-weight: 500;
+    line-height: 1.5;
     font-size: 1.4rem;
     word-spacing: 3px;
     padding-left: 2vw;
     position: relative;
     text-align: justify;
+    color: var(--secondary-grey);
 
 
+}
+
+.img{
+    border-radius: 10px;
+    border: var(--primary-grey) 8px solid;
 }

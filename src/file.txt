@@ -46,7 +46,7 @@
 
 
              </div>
-             <h4> Client Segment  </h4>
+             <h4> Product Segment  </h4>
              <p> Children between 5 and 12.</p>
              <p> It provides them with useful information about the human body's systems.</p>
             </div>
