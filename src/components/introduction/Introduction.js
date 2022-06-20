@@ -63,7 +63,7 @@ export const Introduction = ()=>{
                          data-aos-easing="ease-in-sine"
                          data-aos-duration="500"
                     >
-                    <img src={ process.env.PUBLIC_URL+"/assets/imagination.jpg"} alt="imagination"/>
+                    <img src={ process.env.PUBLIC_URL + '/assets/imagination.jpg'} alt="imagination"/>
                     </div>
                 </Grid>
             </Grid>
