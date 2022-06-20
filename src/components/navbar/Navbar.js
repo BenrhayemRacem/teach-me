@@ -18,7 +18,7 @@ import {useState} from "react";
                         <div className={styles.bars} onClick={handleClose}><CloseIcon sx={{color:'#284D79' , fontSize:32}}/></div>
 
                     )}
-                    <a href="#" > <img src="/assets/logo.png" alt="Logo" className={styles.logo}/></a>
+                    <a href="#" > <img src={process.env.PUBLIC_URL+"/assets/logo.png"} alt="Logo" className={styles.logo}/></a>
 
                     <div className={styles.display}>
 
