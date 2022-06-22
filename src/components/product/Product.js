@@ -20,30 +20,16 @@ export const Product = ()=> {
                 Our design
             </div>
 
-                <Grid
-                    container
-                    justifyContent="center"
-                    alignItems="center"
-                    spacing={4}
-                >
-                    <Grid  item xs={10} md={4}>
 
 
-                        <div data-aos="flip-left" data-aos-easing="linear"
-                             data-aos-duration="1000">
-
-
-                        <ProductCard image={'/assets/product2.png'} title={'FRONT VIEW'} content={''}/>
+                        <div className={styles.vid}>
+                            <video src={process.env.PUBLIC_URL +'/tuto.mp4'} controls={false} autoPlay muted loop  >
+                            </video>
                         </div>
-                    </Grid>
-                    <Grid  item xs={10} md={4}>
-                        <div data-aos="flip-right" data-aos-easing="linear"
-                             data-aos-duration="1000">
-                        <ProductCard image={'/assets/product1.png'} title={'RIGHT VIEW'} content={''}/>
-                        </div>
-                    </Grid>
 
-                </Grid>
+
+
+
 
 
                 <div data-aos="fade-up" data-aos-anchor-placement="top-bottom">
