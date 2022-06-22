@@ -1,13 +1,13 @@
 {
   "files": {
-    "main.css": "https://benrhayemracem.github.io/teach-me/static/css/main.42cec150.css",
-    "main.js": "https://benrhayemracem.github.io/teach-me/static/js/main.539e26a1.js",
+    "main.css": "https://benrhayemracem.github.io/teach-me/static/css/main.a84952fe.css",
+    "main.js": "https://benrhayemracem.github.io/teach-me/static/js/main.8f09cf04.js",
     "index.html": "https://benrhayemracem.github.io/teach-me/index.html",
-    "main.42cec150.css.map": "https://benrhayemracem.github.io/teach-me/static/css/main.42cec150.css.map",
-    "main.539e26a1.js.map": "https://benrhayemracem.github.io/teach-me/static/js/main.539e26a1.js.map"
+    "main.a84952fe.css.map": "https://benrhayemracem.github.io/teach-me/static/css/main.a84952fe.css.map",
+    "main.8f09cf04.js.map": "https://benrhayemracem.github.io/teach-me/static/js/main.8f09cf04.js.map"
   },
   "entrypoints": [
-    "static/css/main.42cec150.css",
-    "static/js/main.539e26a1.js"
+    "static/css/main.a84952fe.css",
+    "static/js/main.8f09cf04.js"
   ]
 }
